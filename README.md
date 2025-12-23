@@ -73,4 +73,19 @@ This project is fully explained step-by-step on YouTube, including:
 Sly Fox Electronics
 https://www.youtube.com/@SlyFoxElectronics
 
+---
+
+## 🦊 About Sly Fox Electronics
+
+Sly Fox Electronics focuses on:
+
+- FPGA & Verilog projects
+- Embedded systems
+- Digital & analog circuit design
+- Clean engineering workflows
+
+If you enjoy project-based electronics, consider subscribing 🚀
+
+⭐ If you found this project useful, don’t forget to star the repository!
+
 
