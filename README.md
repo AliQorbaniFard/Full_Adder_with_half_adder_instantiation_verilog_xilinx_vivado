@@ -60,6 +60,17 @@ This approach reflects **real-world digital design practices** used in FPGA and 
 
 ---
   
+## 📺 Related Video (Sly Fox Electronics)
 
+This project is fully explained step-by-step on YouTube, including:
+
+- Verilog code walkthrough
+- Simulation results
+- RTL schematic analysis
+- Testbench explanation
+
+👉 Watch on YouTube:
+Sly Fox Electronics
+https://www.youtube.com/@SlyFoxElectronics
 
 
