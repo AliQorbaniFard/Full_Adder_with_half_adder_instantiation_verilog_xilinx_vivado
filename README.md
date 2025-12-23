@@ -1,5 +1,7 @@
 # 🔢 Full Adder Design in Verilog (Using Half Adders)
 
+<img width="1536" height="1024" alt="FA_HA" src="https://github.com/user-attachments/assets/1847b915-4820-46ff-8a33-f564a2cd565e" />
+
 A clean and hierarchical **Full Adder** implementation in **Verilog HDL**, built by instantiating **two Half Adders** and an OR gate.  
 This repository demonstrates the **complete digital design flow** from RTL coding to simulation and verification.
 
