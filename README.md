@@ -31,6 +31,35 @@ This approach reflects **real-world digital design practices** used in FPGA and 
 ✔ Modular  
 ✔ Reusable  
 ✔ Readable  
-✔ Industry-style hierarchy  
+✔ Industry-style
+
+## 🧪 Simulation & Verification
+
+- All input combinations are tested using a **custom testbench**
+- Waveforms confirm correct:
+  - `Sum`
+  - `Carry Out`
+- RTL schematic verifies proper **module instantiation and connectivity**
 
 ---
+
+## 🛠 Tools Used
+
+- **Verilog HDL**
+- **Vivado / ModelSim / Questa** (or any Verilog simulator)
+- RTL Viewer
+
+---
+
+## 🎯 Who Is This For?
+
+- FPGA beginners learning **structural Verilog**
+- Students studying **digital logic design**
+- Engineers who want **clean, modular HDL examples**
+- Anyone preparing for **interviews or exams**
+
+---
+  
+
+
+
